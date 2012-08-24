@@ -1,0 +1,10 @@
+
+This directory contains supplemental scripts for Brad's scripts. 
+
+Corner_pix/recent_obs.perl
+-------------------------
+
+this is a supplemental script for ACIS Corner Pixel which is managed by B. Spitzbart.
+most scripts are written in idl, and kept in /data/mta_www/mta_acis_sci_run/Corner_pix.
+please see idl scripts in that directory for detail computation of ACIs Corner Pixels.
+
