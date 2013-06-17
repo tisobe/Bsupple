@@ -6,7 +6,7 @@
 #															#
 #		author: t. isobe (tisobe@cfa.harvard.edu)								#
 #															#
-#		last update: Jan. 06, 2012										#
+#		last update: Mar  28, 2013										#
 #															#
 #########################################################################################################################
 
@@ -114,7 +114,7 @@ print OUT " \n";
 print OUT "<html> \n";
 print OUT "<head> \n";
 
-print OUT "        <link rel=\"stylesheet\" type=\"text/css\" href=\"http://asc.harvard.edu/mta/REPORTS/Template/mta.css\" /> \n";
+print OUT "        <link rel=\"stylesheet\" type=\"text/css\" href=\"https://cxc.cfa.harvard.edu/mta/REPORTS/Template/mta.css\" /> \n";
 print OUT "        <title> ACIS Corner Pixels -- Recent Observations </title> \n";
 print OUT " \n";
 print OUT "        <script language=\"JavaScript\"> \n";
